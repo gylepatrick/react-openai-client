@@ -40,10 +40,10 @@ function App() {
       <div className='w-full max-w-4xl min-w-[20rem] self-center'>
         <InputForm sendMessage={sendMessage}/>
       </div>
-{/* 
-      <div className="bg-green-600">
-        Hello
-      </div> */}
+
+      <div className="mt-2 mb-2 text-sm">
+        Created By: Dev G with ZAINKEEPSCODE
+      </div>
     </div>
   )
 }
