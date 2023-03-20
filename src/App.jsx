@@ -25,7 +25,7 @@ function App() {
   }
 
   return (
-    <div className='relative bg-[#ffffff] h-screen sm:px-28 text-black overflow-hidden flex flex-col justify-between align-start rounded-2xl max-h-70'>
+    <div className='relative bg-[#ffffff] px-3 h-screen sm:px-28 text-black overflow-hidden flex flex-col justify-between align-start rounded-2xl max-h-70'>
 
       <div className='h-[90%] overflow-auto border rounded-lg border w-full max-w-4xl mt-4 min-w-[20rem] py-8 px-4 self-center p-2
       scrollbar-thumb-slate-400 scrollbar-thin scrollbar-track-gray-transparent scrollbar-thumb-border-md '>
