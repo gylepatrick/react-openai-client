@@ -34,14 +34,14 @@ function App() {
           Welcome to DB (Dev BOT)
         </div>
 
-        <ChatBody className="mb-2" chat={chat}/>
+        <ChatBody className="mb-2 px-3" chat={chat}/>
       </div>
 
       <div className='w-full max-w-4xl min-w-[20rem] self-center'>
         <InputForm sendMessage={sendMessage}/>
       </div>
 
-      <div className="mt-2 mb-2 text-sm">
+      <div className="mt-2 mb-2 text-sm text-green-600">
         Created By: Dev G with ZAINKEEPSCODE
       </div>
     </div>
